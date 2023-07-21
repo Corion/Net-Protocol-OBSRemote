@@ -1,4 +1,4 @@
-Net::Protocol::OBSRemote - control OBS via the WebSocket plugin
+Net::Protocol::OBSRemote - event-loop agnostic protocol to control OBS via the WebSocket plugin
 
 
 
@@ -20,15 +20,35 @@ Should you wish to install this module manually, the procedure is
   make install
 
 
+REPOSITORY
+
+The public repository of this module is
+L<https://github.com/Corion/Net-Protocol-OBSRemote>.
+
+SUPPORT
+
+The public support forum of this module is L<https://perlmonks.org/>.
 
 
 
+BUG TRACKER
 
+Please report bugs in this module via the Github bug queue at
+L<https://github.com/Corion/Net-Protocol-OBSRemote/issues>
 
 
 SEE ALSO
 
 L<https://github.com/Palakis/obs-websocket/blob/4.x-current/docs/generated/protocol.md>
 
+AUTHOR
 
+Max Maischein C<corion@cpan.org>
 
+LICENSE
+
+This module is released under the same terms as Perl itself.
+
+COPYRIGHT (c)
+
+Copyright 2021-2021 by Max Maischein C<corion@cpan.org>.
